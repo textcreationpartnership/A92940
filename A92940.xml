@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Serious warning and caution unto George Keith and to many others as also a relation of some expressions from George Keith, concerning his reasons which he then gave, for opposing and exposing the Quakers, when at his place at Turner's-hall : the intention of the publication of which, and more that is in this paper contain'd, is proposed for a publick and general good of all.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92940</idno>
+            <idno type="STC">Wing S2620</idno>
+            <idno type="STC">ESTC R43737</idno>
+            <idno type="EEBO-CITATION">42475171</idno>
+            <idno type="OCLC">ocm 42475171</idno>
+            <idno type="VID">151328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2255:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Serious warning and caution unto George Keith and to many others as also a relation of some expressions from George Keith, concerning his reasons which he then gave, for opposing and exposing the Quakers, when at his place at Turner's-hall : the intention of the publication of which, and more that is in this paper contain'd, is proposed for a publick and general good of all.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures:</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151328:1" rendition="simple:additions"/>
+            <p>A Serious Warning and Caution UNTO <hi>George Keith,</hi> And to many Others.</p>
+            <p>AS ALSO, A RELATION OF SOME EXPRESSIONS FROM <hi>George Keith,</hi> Concerning His REASONS which He then gave, for Oppoſing and Expoſing the <hi>Q<g ref="char:V">Ʋ</g>AKEKS,</hi> When at His Place at
+<hi>T<g ref="char:V">Ʋ</g>RNER</hi>'s-<hi>HALL.</hi>
+            </p>
+            <p>The Intention of the Publication of which, and more that is in this Paper contain'd, is propoſed for a Publick and Ge<g ref="char:EOLhyphen"/>neral Good of All.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="warning">
+            <pb facs="tcp:151328:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:151328:2"/>
+            <head>A Serious Warning and Caution unto <hi>George Keith,</hi> &amp;c.</head>
+            <p>WHEREAS on the 18th of the Month called <hi>Auguſt,</hi> 1700. was ſeen affixed upon the great Pil<g ref="char:EOLhyphen"/>lars of the <hi>Exchange,</hi> on
+<hi>Cornhill</hi>-ſide, a Paper in Print, entituled; <hi>A Serious Call to the Quakers, In<g ref="char:EOLhyphen"/>viting them to return to Chriſtianity: Containing many Quotations</hi> (ſo termed) <hi>out of the Books of divers Quakers,</hi> &amp;c. Which Quotations are ſaid to be atteſted by Eight Miniſters of the Church of <hi>England;</hi> wherein <hi>George Keith</hi> in his
+<hi>Goliah</hi>-like Spirit, doth offer to prove the ſame to the
+<hi>Quakers</hi> Faces, <hi>&amp;c.</hi> to be Monſtrous, Heretical, and Antichriſtian. But there is a Stone which is cut and a cutting out of the Mountain, without Hands, which is riſen, and ariſing, in this Nati<g ref="char:EOLhyphen"/>on, which will daſh to pieces in the Head, the Work and Works of this
+<hi>Goliah,</hi> with his Cham<g ref="char:EOLhyphen"/>pions; for the Lord the inviſible and mighty God is on his way, to ſuſtain and ſupport his diſtreſ<g ref="char:EOLhyphen"/>ſed and exerciſed People, let their Exerciſes be of what nature or kind ſoever; and the Faithful amongſt this People ſhall be preſerved, ſuch that do not ſeek to be ſetting themſelves up great in this World, that deny themſelves of Self and Self-Love, and Selfiſh Worldly Intereſt, but are
+<pb n="4" facs="tcp:151328:3"/>ſeeking after the inviſible and only wiſe God, and our Lord Jeſus Chriſt, for the everlaſting welfare of their never dying Souls; as alſo ſeeking, deſi<g ref="char:EOLhyphen"/>ring, and praying for the eternal welfare and good of their Relations, Neighbours, and loving Coun<g ref="char:EOLhyphen"/>try-men, of what Judgment or Perſwaſion ſoever. And notwithſtanding all the Miſts and dark Fogs that may ariſe out from the Bottomleſs-Pit, and of fallen Angels, the Faithful, Humble, and Low<g ref="char:EOLhyphen"/>ly minded and hearted amongſt this People, the Lord, the mighty God and Creator of all things, he by his great and inviſible Power, will preſerve them, in deſpight of whatever Satan and his fallen Angels can or may be ſuffered to do, or attempt.</p>
+            <p>And the Author of this Paper doth ſomething admire that thoſe called <hi>Biſhops</hi> and <hi>Miniſters</hi> of the Church of
+<hi>England,</hi> ſhould ſuffer them<g ref="char:EOLhyphen"/>ſelves to be ſo Impoſed upon, to think that this poor Apoſtatized Man and Creature, ſhould be of ſervice unto them, to be an Inſtrument to help to bring the <hi>Quakers</hi> back to the <hi>Church of Eng<g ref="char:EOLhyphen"/>land:</hi> I do affirm and aſſert, That you will in the Lord's time ſee your ſelves Miſtaken, although it may be ſome Particulars, ſuch as <hi>George Keith,</hi> whom 'tis ſuppoſed you take ſomething the more notice of, becauſe he may have ſomething of out<g ref="char:EOLhyphen"/>ward Learning, and therefore the fitter Tool to be made uſe of on the aforeſaid occaſion, who like him, have forſaken their inward, and ſpiri<g ref="char:EOLhyphen"/>tual, and firſt Love unto the Lord, which hath provoked the Lord to withdraw from them, and to give them up unto the guidance of their Souls Enemy, and to follow their own darkned Under<g ref="char:EOLhyphen"/>ſtandings. And this I am made to declare unto you that are called <hi>Biſhops</hi> and <hi>Miniſters,</hi> &amp;c. that
+<pb n="5" facs="tcp:151328:3"/>the ſame Arm, Strength and Power, that did ſecretly and inwardly ſuſtain this People in their former Sufferings, Exerciſes, and Perſecutions, I do affirm and aſſert, through the unexpreſſible mercy, and goodneſs, and favour of Almighty God, is now in a wonderful ſecret manner pre<g ref="char:EOLhyphen"/>valent in the Aſſemblies of this People; but it is much my Belief, and I fear, that the Lord will make ſome of them Examples unto the World of his diſpleaſure for their Unfaithfulneſs unto him, notwithſtanding they may, it may be, keep to the outward Profeſſion amongſt this People, be<g ref="char:EOLhyphen"/>cauſe of their ſecret withdrawing in their Hearts from the Lord, who hath been good and gracious unto them many a time, and delivered them ma<g ref="char:EOLhyphen"/>ny a time, becauſe of their getting again too much into the Love, and Spirit, and Things of this World; of which I can remember a time when the Lord ſuffered many of them to be ſtript from almoſt all worldly Enjoyments, and in that Day the Lord was with them, and ſuſtained them in a low and exerciſed Eſtate, and was near to them to do them good; and the Lord is the ſame at this Day, and will be the ſame to all that ſhall be ſo happy as to have their reliance and depen<g ref="char:EOLhyphen"/>dance always upon him. Now as to the Spirit and Diſpoſition that hath, and is of late Years and Months entred into this, to be pittied and lamented, poor Apoſtatized Man <hi>George Keith,</hi> I do affirm and teſtifie, it is no other than the ſame that was in the Prophet <hi>Balaam</hi> of Old; who for <hi>Balack's</hi> Rewards, notwithſtanding the Lord had forewarned him, yet would go with
+<hi>Balack</hi> to endeavour, (like this poor Creature) for Enchantments againſt <hi>Iſrael;</hi> But the Lord turned <pb n="6" facs="tcp:151328:4"/>his endeavours of Curſing of <hi>Iſrael</hi> into Bleſſings; the Lord is not changed, he is now the ſame at this very day. And this is the ſame Spirit that was in wicked <hi>Jeroboam,</hi> who made <hi>Iſrael</hi> to ſin, in cauſing them to worſhip his Golden Calves, to cauſe them that they ſhould not go up to <hi>Jeruſalem,</hi> to worſhip and offer unto the Lord, as the Lord had commanded; and is the ſame Spirit that made wicked
+<hi>Cain</hi> kill his Brother <hi>Abel,</hi> becauſe the Lord had accepted of <hi>Abel</hi>'s Offering; and is the ſame Spirit that in the Old World mocked at Righteous <hi>Noah,</hi> when he was Building the Ark, at the Commandment of the Lord; and is the ſame Spirit that was in <hi>Dathan</hi> and <hi>Abiram</hi> of old, that withſtood <hi>Moſes</hi> and
+<hi>Aaron,</hi> the Servants of the Living God, who the Lord had commanded to lead his People <hi>Iſrael</hi> out of <hi>Egypt</hi>'s dark Land, Slavery and Bondage; the Lord cauſed the Earth to open its Mouth and ſwallow them up: So at this Day, thoſe that inwardly in their Hearts which departeth from the Lord, the Earth opens its Mouth, and they are ſwallowed up in the Love of this World, and in the Love of Earthly Things and Enjoyments: and this is the Spirit that was in the falſe Prophet <hi>Zedekiah,</hi> the Son of
+<hi>Cheuah</hi> of of old, that ſmote the Prophet <hi>Micah</hi> the Lord's Prophet upon the Cheek; who ſaid, <hi>Which way went the Spirit of the Lord from we to ſpeak unto thee?</hi> And is the ſame Spirit that ruled in the unbelieving <hi>Jews</hi> of old, who Crucified our Lord, the Lord of Life and Glory, the great Saviour of the World, and of Mankind; it is the ſame Spirit that was in the unbelieving <hi>Jews,</hi> that Stoned that bleſſed Mar<g ref="char:EOLhyphen"/>tyr
+<hi>Steven,</hi> who told them of their Rebellion and Stubborneſs againſt the Lord, and how they Re<g ref="char:EOLhyphen"/>bell'd <pb n="7" facs="tcp:151328:4"/>againſt his good Spirit; it is no other but the ſame Spirit that caus'd <hi>Demas</hi> of old to em<g ref="char:EOLhyphen"/>brace this preſent Evil Word, complain'd of by that worthy Apoſtle and Servant of the Lord, <hi>Paul,</hi> who lamented in his Day and Time to this effect, That all were ſeeking after their own, and not the things of the Lord, who could not be content with a low Eſtate which the Lord doth bleſs; having Food and Raiment to be there<g ref="char:EOLhyphen"/>with content, and to follow the low and humble Example of our only and bleſſed Saviour the Lord Jeſus Chriſt; who, although, was Heir of all Things in Heaven, and in the Earth, yet deny'd himſelf of all things taking off the World, only a little ſuſtenance, and a little ſomething for outward Covering, <hi>viz.</hi> a Garment which we read of was without Seam, without Rent; and ſo is his Spiritual Garment witneſſed, and known to be at this Day to a little Remnant; he alone is worthy of the Glory, who is for ever bleſſed: And where the Rents are, and where the Envy and Bitterneſs of Spirit is, and where the Runings out are, from the Truth and bleſſed Spirit of God, and of our Lord Jeſus Chriſt; let it be be a<g ref="char:EOLhyphen"/>mongſt what People, Name or Denomination ſoever, ſuch do not keep under the Spiritual and Seamleſs Garment of our Lord Jeſus Chriſt; not<g ref="char:EOLhyphen"/>withſtanding they may not be a wanting of high Pretences, and making in Words a great and ſpe<g ref="char:EOLhyphen"/>cious Profeſſion of him, much like the
+<hi>Jews</hi> of old, who counted themſelves the Children of God and
+<hi>Abraham</hi>'s Seed; yet would needs have Chriſt the bleſſed
+<hi>Meſſiah</hi> to be a Blaſphemer, and what not, ſpeaking Deſpicably of him; ſaying, <hi>Is not this the Carpenter's Son? whoſe Father and Mother we <pb n="8" facs="tcp:151328:5"/>know; and are not his Brethren hear with us?</hi> Cal<g ref="char:EOLhyphen"/>ling him a Deceiver, and how that he did caſt out Devils by
+<hi>Belzebub,</hi> &amp;c. And ſuch as before go into the Love of this preſent World, and too much effects the Enjoyments thereof; and ſuch go into a Spirit of Prejudice and Envy, and lets in a perſecuting Spirit againſt their Bre<g ref="char:EOLhyphen"/>thren, that cannot Worſhip after the ſame way and manner, as they themſelves are pleaſed to do; which is too much like
+<hi>Cain</hi>'s Spirit and Diſpoſition. And this envious Spirit of preju<g ref="char:EOLhyphen"/>dice, to my former too great and woful Loſs, and hurt, to my great Unhappineſs; having en<g ref="char:EOLhyphen"/>tred into my poor Soul, through my too much giving way unto my Soul's Enemy, after I had a long time made profeſſion with the People call'd <hi>Quakers,</hi> to that Degree, that I almoſt loathed the ſight of any of the ſaid People; but the Merciful God, who had viſited and tendered my Heart, in my early and young Days, who had been many a time good unto me, who continued to follow me in my Rebellious State, and State of Apoſtacy from him, juſtly brought upon me, Outward and Worldly Diſappointments, and blaſted my Endeavours, as to Outward and Worldly Affairs; yet providentially open'd a way ſtill for an outward Subſiſtance.</p>
+            <p>Yet again, I forgot the Lord, who had ſhew<g ref="char:EOLhyphen"/>ed ſo much Mercy and Goodneſs unto me; and the Enemy again ſtole away my Heart from fol<g ref="char:EOLhyphen"/>lowing him, by little and little, ſo that I lived in much and great Exceſs, too much to mention hear; but the Lord ſtill continued to follow me, according to his wonted Mercy and long forbear<g ref="char:EOLhyphen"/>ance, and in a remarkable way viſited me with <pb n="9" facs="tcp:151328:5"/>his Judgments. It being now near Four Years ſince, by laying his Afflicting Hand upon my Body; by which my Body came to be afflicted with di<g ref="char:EOLhyphen"/>vers kinds of Indiſpoſitions and Weakneſſes, and that of a long continuance; and alſo inwardly viſited my Soul and Spirit with Judgment, where<g ref="char:EOLhyphen"/>in my former Diſobedient and Rebellious State was ſet before me, as in a Glaſs; the Lord having found me in this deplorable State, and nothing but Eternity, in a dreadful manner, ſeemingly to ap<g ref="char:EOLhyphen"/>pear in my view; and that which greatly Exer<g ref="char:EOLhyphen"/>ciſed my diſtreſſed Mind, was the unaccountable hardneſs of my Heart; when if the World had been in my Power to have given, I could gladly have parted with it, to have had my hard Heart broken, and tender'd by the good Spirit of the Lord, and at that time to have witneſſed laſting Peace to my poor never dying Soul. So the Lord in great Mercy unto me, having brought me every way very low in his time, which was a time of great Love indeed, he did not forget to ſhew his great Love and Mercy unto my greatly diſtreſſed poor Soul, and brought my Heart and Spirit into much brokenneſs and tenderneſs; for which I have abundant cauſe to be always thankful unto the Lord for ever, to bleſs and praiſe his Honourable and Worthy Name, ſo long as it may pleaſe the Lord to give me a Being in this Mortal Body.</p>
+            <p>The weighty, ſolid, and ſerious Conſideration, of which great and unaccountable Mercy, great Favour and Love of Almighty God to me, hath occaſion'd a concern of Mind in me towards others, that may have Apoſtatized from the Lord as I have done, in ſlighting his tender and compaſ<g ref="char:EOLhyphen"/>ſionate Viſitations; to warn others that may have
+<pb n="10" facs="tcp:151328:6"/>declin'd in their Hearts from the Lord of Life and Glory, as I to my former great Unhappineſs have done: And this former unhappy State and Condition of mine, may alſo ſerve to be a warn<g ref="char:EOLhyphen"/>ing unto all ſorts of People, of what Perſwaſion or Judgment ſoever, that they do not provoke a merciful God as I have done: For my belief is, that the Lord is not a wanting, to afford in ſome degree and meaſure, a time of Viſitation unto all, ſo as to leave all without excuſe, of what Per<g ref="char:EOLhyphen"/>ſwaſion or Judgment ſoever, when he ſhall come to Judgment. And it is my belief, that at that Day the Queſtion will not be ſo much, what People's Judgments and Religious Perſwaſions may have been; but whether in their Lives and Converſa<g ref="char:EOLhyphen"/>tions, they have not lived in Rebellion againſt the good Spirit of the Lord; ſo as in that Day be found Workers of Iniquity, ſo as to incur that woful Sentence of, <hi>Go you Curſed into utter Dark<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c.</p>
+            <p>And as before expreſs'd, having through the great goodneſs of the Lord, in ſome meaſure obtain'd Forgiveneſs, and Mercy, and Favour at his Merciful Hand, hath occaſion'd a concern up<g ref="char:EOLhyphen"/>on my Mind, to go to viſit this, to be lamented Apoſtatized, poor Man, <hi>George Keith;</hi> which ac<g ref="char:EOLhyphen"/>cordingly I did, about the Months call'd <hi>February</hi> or <hi>March</hi> laſt, before he had given over Acting at his Stage at
+<hi>Turner</hi>'s-<hi>Hall,</hi> and ſome Months before he tooks Orders upon him in the Church of <hi>England</hi> way; it being upon my Mind, to warn and caution him againſt that Spirit of Pre<g ref="char:EOLhyphen"/>judice, which I had a Senſe of he was enter'd into: And I can truly ſay, I found Love in my Heart reaching towards him; and amongſt the <pb n="11" facs="tcp:151328:6"/>Expreſſions which he made to me, at the cloſe of what paſt, I holding him by the Hand, being earneſtly diſſwading of him from that undue proceedure of his. He replyed, <hi>What wouldſt thou have me to do? wouldſt thou have me to go into the Street with my Wife and Family?</hi> And this, if need be, I can Teſtifie to the Face of <hi>George Keith</hi> to be ineffect, if not the very expreſs Words, which came then from the Mouth of <hi>George Keith,</hi> againſt whom I have nothing of Prejudice, but Chriſtian Tenderneſs, Love and Good Will in my Heart: And it would be well for him, if he would whilſt it is call'd to Day, to turn unto the Lord with a ſincere Heart in true Repentance, and to put up ſincere Cries and Breathings unto the Lord, as I through the Goodneſs and Mercy of the Lord have been made to do, to Cry unto him in much tenderneſs and brokenneſs of Heart for forgive<g ref="char:EOLhyphen"/>neſs, and for Mercy, and not to be aſhamed to take Shame upon himſelf in ſincere Repentance, again to return unto the Lord.</p>
+            <p>No Worldly Intreſt moved me to this Concern, neither am I, nor have I been inſighted hereunto by any Perſon, or <hi>Quaker</hi> living: The Lord is my Witneſs, I have had a Concern to conceal my Concern of Mind from them, until it be Publiſh'd unto the World: And the Author of This, in Sincerity, hath Chriſtian Love and Good Will, and Chriſtian reſpect to all Solid and Sin<g ref="char:EOLhyphen"/>cere-hearted People, of the Church of <hi>England</hi> Perſwaſion and Way; as alſo, to all others, that do not too much affect Worldly Intereſt, that affects a Chriſt-like Self-denying State, that de<g ref="char:EOLhyphen"/>ſireth the Welfare and Happineſs of all that can love Enemies; that like Chriſt our Lord, who <pb n="12" facs="tcp:151328:7"/>came to do good unto all, even unto the Re<g ref="char:EOLhyphen"/>bellious; that when his Perſecutors were Crucify<g ref="char:EOLhyphen"/>ing of him to Death, he cryed, <hi>Father forgive them, they know not what they do.</hi> He did not cry for Fire to come down to deſtroy his Per<g ref="char:EOLhyphen"/>ſecutors, but ſubmitted his Will unto his Fa<g ref="char:EOLhyphen"/>ther's Will, which he came into the World to do, to dye for Sinners, for the Rebellious, that thro' him? and what he ſuffer'd for loſt Man, loſt Man might be redeem'd unto God out of the fallen State. So in the tender Love of Almighty God, with which he is waiting to do the Sons of Men his Creation good withal; I bid all to farewel. Seeing no neceſſity for me to ſubſcribe my Name to this Paper, I having more than once ſignified it unto <hi>George Keith,</hi> as likewiſe my place of Aboad and Calling,
+<hi>&amp;c.</hi>
+            </p>
+            <div type="postscript">
+               <pb n="13" facs="tcp:151328:7"/>
+               <head>A POSTSCRIPT.</head>
+               <opener>
+                  <salute>Friendly Reader,</salute>
+               </opener>
+               <p>AS to the giving this our <hi>Adverſary,</hi> and the
+<hi>Adverſaries</hi> of <hi>Truth</hi> what they inſiſt upon, relating to their Diſin<g ref="char:EOLhyphen"/>genious way of taking Scraps of their Quotations, out of our
+<hi>Friend</hi>'s Books, as beſt ſuits with his, and their Inve<g ref="char:EOLhyphen"/>terate prejudiced Minds; and that alſo in a bitter perſecuting Spirit, and Diſpoſi<g ref="char:EOLhyphen"/>tion againſt a peaceable <hi>People;</hi> not only out of divers of our <hi>Friend's</hi> Writings, that are yet living: And if they have not already, may as they find freedom, give a more Sincere Senſe than their Oppoſers have done, of what may be ob<g ref="char:EOLhyphen"/>jected, and unfairly oppoſed, and expoſed by their unfair and partial <hi>Adverſaries,</hi> Sordid, Biaſſed, Diſingenious Inſinuati<g ref="char:EOLhyphen"/>ons: And whether it doth not look unfair in Theſe, our, and the Adverſaries of <hi>Truth,</hi> to rake m the Embers of the Dead, that are out of the Body, divers of them <pb n="14" facs="tcp:151328:8"/>Years ſince; ſo not in a capacity to Vin<g ref="char:EOLhyphen"/>dicate what was then in their Time and Day, upon their Hearts to Write, for, and on the behalf of that Way and Bleſ<g ref="char:EOLhyphen"/>ſed <hi>Truth,</hi> they in their Day and Time were made Profeſſors, and Poſſeſſors of; on the account of which, they underwent great Sufferings, and greatly Suffered; for Whom we have good Reaſon to be<g ref="char:EOLhyphen"/>lieve, are at Reſt with the Lord. And whether this to be Pitied and Apoſtatized Man <hi>George Keith</hi> is not partial in a high Degree, as to theſe his Quotations; when as he himſelf in thoſe many Years he was amongſt the ſaid People, I have reaſon to believe, was not without a con<g ref="char:EOLhyphen"/>ſiderable ſhare in Writing for, and vin<g ref="char:EOLhyphen"/>dicating that
+<hi>Truth,</hi> which I believe he once ſincerely and firmly believed, that he hath not ſo much as made one Quotation out of his own Writings, when among the ſaid People; and notwithſtanding his publick owning to have been formerly with them Guilty, both in Doctrine and Practice of Error, and what is propoſed <pb n="15" facs="tcp:151328:8"/>and deſired by the <hi>Author</hi> of this Paper, is that the unbiaſſed, and ſimple-hearted, and unwary may not be hurt, nor let in a Spirit of prejudice, by any means, work or endeavour, by the endeavours of any poor Envious, Bewildered and Darkned Apoſtate, or Apoſtates; who like <hi>Eſau</hi> of old, ſells their Birth rights for a Meſs of Pottage, for a little preſent Worldly Enjoyments, a little Worldy Gain, <hi>&amp;c.</hi> In which I am aſſured, they cannot have true and laſting Peace, to their never-dying poor Souls; but Horrour, Anguiſh and Trouble of Mind, Heart and Spirit; <hi>For there is no Peace to the Wicked, ſaith my God:</hi> Which the <hi>Author</hi> of this Paper, to his un<g ref="char:EOLhyphen"/>expreſſible Sorrow, Grief and Anxiety of Spirit, hath by woful Experience been acquainted withal. <hi>Farewel.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Written in</hi> London,
+<date>
+                        <hi>in the Seventh</hi> Month,
+<hi>1700.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
